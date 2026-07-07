@@ -46,6 +46,6 @@ spec:
                   number: 80
   tls:
     - hosts:
-        - adityajaiswal.com
-        - www.adityajaiswal.com
+        - selvakumar.com
+        - www.selvakumar.com
       secretName: adityajaiswal-co-tls
